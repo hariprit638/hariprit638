@@ -22,7 +22,7 @@
 
 ## 📁 Featured Projects
 1. **E-commerce Dashboard Creation** 📉 – Analyzed E-commerce Datasets to solve buisnees problems🛍️🛒.
-2. **CRM_Sales_Project** 🚨 – This end-to-end pipeline empowers businesses to streamline their sales operations, improve decision-making, and boost overall productivity.
+2. **CRM_Sales_Project** 🚨 –  Integrated Python, Mysql and PowerBI to analyze Overall Sale performance⌨🖱️🖥️.
 
 ## 👥 Group Members and Logos
 
