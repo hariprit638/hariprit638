@@ -26,7 +26,7 @@
 
 ## 👥 Group Members and Logos
 
-### 🚀 **Project 1: Circular_Economy_Coders_037**
+### 🚀 **Team 1: Circular_Economy_Coders_037**
 We worked as a team to analyze data and uncover insights for better decision-making!
 
 | <img src="https://github.com/hariprit638/Circular_Economy_Coders_037/blob/main/EcomDash_Logo.png" width="200"/> |
@@ -36,7 +36,7 @@ We worked as a team to analyze data and uncover insights for better decision-mak
 
 ---
 
-### 🚀 **Group 2: Carbon Savvy **
+### 🚀 **Team 2: Carbon Savvy **
 This team focused on powerBI dynamic dashboard predictive analytics!
 
 | <img src="https://github.com/hariprit638/CRM_Sales_Project/blob/main/Logo.webp" width="200"/> |
